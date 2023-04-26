@@ -2,7 +2,7 @@
 #Pathfinders_vehicle_control_NC.py
 
 #importing reqiured libraries
-from jetracer.nvidia_racecar Import NvidiaRacecar
+from jetracer.nvidia_racecar import NvidiaRacecar
 
 # Instantiate the object for Object Oriented Programming (OOP)
 car = NvidiaRacecar()
